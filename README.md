@@ -1,12 +1,13 @@
 ## SpamDee
 
-### Project Description:
+## Project Description:
 
 Implementation of a Spam Classifier, using Natural Language Processing
 
-<details>
-           <summary>Content's of the Project</summary>
-           <p>[Analysis](https://github.com/Sagnik220/SpamDee/tree/main/Analysis)</p>
-           <p>Desktop Application</p>
-           <p>Web Application</p>
-</details>
+## Content's of Project:
+
+#### 1. [Analysis](https://github.com/Sagnik220/SpamDee/tree/main/Analysis)
+#### 2. [Desktop Application](https://github.com/Sagnik220/SpamDee/tree/main/Desktop%20App)
+#### 3. [Web Application]()
+
+
