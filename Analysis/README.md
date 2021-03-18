@@ -11,4 +11,4 @@ We are using Naive-Bayes Algorithm to solve this problem of Text-Classification.
 
 ### Flow-Diagram
 
-<img src="Images/flowchart.png">
+<img src="Images/flowchart.png" width=400>
