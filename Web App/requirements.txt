@@ -1,0 +1,8 @@
+numpy
+flask
+sklearn
+pandas
+Werkzeug
+gunicorn
+pandas
+nltk
