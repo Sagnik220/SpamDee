@@ -25,4 +25,5 @@ Implementation of a Spam Classifier, using Natural Language Processing
 <img src="Images/ham.png" width=500>
 
 ### 2.Web Application
-
+<img src="Images/Ham1.png" width=500>
+<img src="Images/Ham2.png" width=500>
